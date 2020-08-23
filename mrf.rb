@@ -1,4 +1,4 @@
-class MrfBin < Formula
+class Mrf < Formula
   desc "Rename files by pattern matching."
   homepage "https://github.com/kerlilow/mrf"
   version "0.1.0"
